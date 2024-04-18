@@ -1,0 +1,27 @@
+ecommerce-baby-products/
+├── backend/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/
+│   │   │   │   └── com/
+│   │   │   │       └── yourcompany/
+│   │   │   │           └── ecommerce/
+│   │   │   │               ├── controller/
+│   │   │   │               ├── model/
+│   │   │   │               ├── repository/
+│   │   │   │               ├── service/
+│   │   │   │               └── Application.java
+│   │   │   └── resources/
+│   │   │       ├── application.properties
+│   │   │       └── static/
+│   │   │           └── index.html
+├── frontend/
+│   ├── public/
+│   │   └── index.html
+│   └── src/
+│       ├── assets/
+│       ├── components/
+│       ├── views/
+│       ├── App.vue
+│       └── main.js
+└── pom.xml
